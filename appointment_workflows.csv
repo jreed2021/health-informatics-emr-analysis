@@ -1,0 +1,101 @@
+AppointmentID,PatientID,WorkflowStepsCompleted,TimeToComplete,ModulesUsed,ErrorsEncountered
+A2000,P1122,Provider Note Incomplete,16,Vitals only,Missing fields
+A2001,P1194,Vitals Skipped,8,All Modules,Missing fields
+A2002,P1181,Provider Note Incomplete,19,Notes only,Lag
+A2003,P1068,All,39,Vitals only,Lag
+A2004,P1052,Provider Note Incomplete,17,Vitals only,Missing fields
+A2005,P1071,All,23,"Vitals, Notes, Billing",Lag
+A2006,P1101,Vitals Skipped,22,Vitals only,None
+A2007,P1126,Vitals Skipped,30,All Modules,Lag
+A2008,P1154,All,16,All Modules,Double entry
+A2009,P1091,Vitals Skipped,13,"Vitals, Notes, Billing",Lag
+A2010,P1173,Vitals Delayed,16,Vitals only,Lag
+A2011,P1079,Vitals Delayed,35,Notes only,None
+A2012,P1027,Vitals Delayed,42,Vitals only,None
+A2013,P1111,Provider Note Incomplete,29,"Vitals, Notes, Billing",None
+A2014,P1070,All,42,"Vitals, Notes, Billing",Double entry
+A2015,P1047,Vitals Skipped,38,Vitals only,Double entry
+A2016,P1199,Vitals Delayed,25,Vitals only,Lag
+A2017,P1067,Vitals Skipped,43,Vitals only,Missing fields
+A2018,P1093,Provider Note Incomplete,33,Vitals only,Missing fields
+A2019,P1110,Vitals Delayed,28,All Modules,None
+A2020,P1070,Vitals Delayed,21,All Modules,Missing fields
+A2021,P1023,Vitals Delayed,11,Vitals only,Missing fields
+A2022,P1060,All,21,"Vitals, Notes, Billing",None
+A2023,P1080,Vitals Skipped,23,Vitals only,Lag
+A2024,P1121,Vitals Skipped,44,All Modules,Missing fields
+A2025,P1084,All,15,"Vitals, Notes, Billing",Missing fields
+A2026,P1041,Provider Note Incomplete,31,All Modules,None
+A2027,P1084,Provider Note Incomplete,11,"Vitals, Notes, Billing",Missing fields
+A2028,P1048,Vitals Delayed,19,Notes only,None
+A2029,P1133,Provider Note Incomplete,43,All Modules,None
+A2030,P1088,Vitals Skipped,29,"Vitals, Notes, Billing",Missing fields
+A2031,P1148,Provider Note Incomplete,32,Notes only,Missing fields
+A2032,P1047,All,11,Notes only,None
+A2033,P1158,Provider Note Incomplete,43,"Vitals, Notes, Billing",None
+A2034,P1125,Vitals Delayed,19,Vitals only,Missing fields
+A2035,P1152,Provider Note Incomplete,15,"Vitals, Notes, Billing",Missing fields
+A2036,P1194,Vitals Delayed,43,All Modules,Double entry
+A2037,P1164,All,30,Notes only,Lag
+A2038,P1182,Provider Note Incomplete,14,"Vitals, Notes, Billing",Missing fields
+A2039,P1021,Vitals Skipped,41,"Vitals, Notes, Billing",None
+A2040,P1063,All,34,"Vitals, Notes, Billing",None
+A2041,P1068,Provider Note Incomplete,14,Vitals only,None
+A2042,P1007,Provider Note Incomplete,41,Vitals only,Lag
+A2043,P1151,Vitals Delayed,32,Vitals only,Missing fields
+A2044,P1190,Vitals Delayed,19,Vitals only,Missing fields
+A2045,P1000,Vitals Delayed,44,Notes only,Double entry
+A2046,P1123,Vitals Skipped,39,Vitals only,Missing fields
+A2047,P1018,Vitals Delayed,26,Vitals only,Double entry
+A2048,P1113,All,18,All Modules,None
+A2049,P1030,Provider Note Incomplete,9,"Vitals, Notes, Billing",Lag
+A2050,P1061,Provider Note Incomplete,23,All Modules,Double entry
+A2051,P1079,Vitals Delayed,16,Notes only,Lag
+A2052,P1175,Vitals Skipped,32,"Vitals, Notes, Billing",Missing fields
+A2053,P1171,Vitals Delayed,10,"Vitals, Notes, Billing",None
+A2054,P1034,Vitals Skipped,38,"Vitals, Notes, Billing",None
+A2055,P1170,Provider Note Incomplete,12,Notes only,Lag
+A2056,P1119,Provider Note Incomplete,42,"Vitals, Notes, Billing",None
+A2057,P1101,Vitals Skipped,17,"Vitals, Notes, Billing",Double entry
+A2058,P1002,All,22,All Modules,Missing fields
+A2059,P1042,Vitals Delayed,18,All Modules,Double entry
+A2060,P1130,All,44,"Vitals, Notes, Billing",Lag
+A2061,P1029,All,34,"Vitals, Notes, Billing",Double entry
+A2062,P1168,Provider Note Incomplete,10,Vitals only,None
+A2063,P1043,Vitals Delayed,43,Notes only,Missing fields
+A2064,P1178,All,17,"Vitals, Notes, Billing",Double entry
+A2065,P1062,All,21,Notes only,Double entry
+A2066,P1094,All,36,"Vitals, Notes, Billing",None
+A2067,P1102,Vitals Skipped,20,Notes only,None
+A2068,P1147,Vitals Delayed,21,All Modules,Missing fields
+A2069,P1069,Provider Note Incomplete,38,All Modules,Missing fields
+A2070,P1191,All,9,Vitals only,None
+A2071,P1039,Vitals Delayed,13,"Vitals, Notes, Billing",Double entry
+A2072,P1005,Vitals Skipped,32,Vitals only,Double entry
+A2073,P1158,Vitals Delayed,34,Vitals only,None
+A2074,P1139,Vitals Delayed,23,"Vitals, Notes, Billing",Lag
+A2075,P1133,Vitals Skipped,24,"Vitals, Notes, Billing",None
+A2076,P1022,Vitals Delayed,25,"Vitals, Notes, Billing",Missing fields
+A2077,P1088,Vitals Skipped,41,Vitals only,Missing fields
+A2078,P1142,Vitals Skipped,34,All Modules,Lag
+A2079,P1179,All,9,All Modules,Lag
+A2080,P1030,Provider Note Incomplete,13,All Modules,Double entry
+A2081,P1058,Vitals Delayed,31,Vitals only,Double entry
+A2082,P1047,All,29,"Vitals, Notes, Billing",Double entry
+A2083,P1028,Vitals Delayed,14,Notes only,Missing fields
+A2084,P1160,Provider Note Incomplete,33,Vitals only,Double entry
+A2085,P1194,Vitals Delayed,42,Notes only,Missing fields
+A2086,P1025,Vitals Delayed,34,"Vitals, Notes, Billing",Lag
+A2087,P1172,Vitals Delayed,43,All Modules,Double entry
+A2088,P1141,All,13,"Vitals, Notes, Billing",None
+A2089,P1168,Vitals Skipped,12,Vitals only,Missing fields
+A2090,P1038,Provider Note Incomplete,33,All Modules,Double entry
+A2091,P1170,Vitals Delayed,30,"Vitals, Notes, Billing",Lag
+A2092,P1131,Vitals Delayed,29,All Modules,Double entry
+A2093,P1188,Vitals Delayed,28,Notes only,None
+A2094,P1024,Provider Note Incomplete,15,Notes only,Missing fields
+A2095,P1012,Provider Note Incomplete,16,All Modules,Lag
+A2096,P1130,Vitals Skipped,33,All Modules,Double entry
+A2097,P1091,Vitals Delayed,32,Vitals only,Lag
+A2098,P1133,Vitals Skipped,36,Vitals only,Double entry
+A2099,P1015,Vitals Delayed,26,Vitals only,Double entry

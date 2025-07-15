@@ -1,0 +1,51 @@
+UserID,Role,Department,Feedback,SatisfactionRating
+U3000,Nurse,Cardiology,No issues,3
+U3001,Billing,Family Med,Would like auto-populated templates,1
+U3002,Billing,Family Med,System crashes when saving notes,5
+U3003,Provider,Cardiology,Navigation is not intuitive,5
+U3004,Billing,Internal Med,Would like auto-populated templates,3
+U3005,Billing,Pediatrics,Training was insufficient,5
+U3006,MA,Family Med,System crashes when saving notes,1
+U3007,Billing,Pediatrics,Would like auto-populated templates,4
+U3008,Admin,Pediatrics,System crashes when saving notes,3
+U3009,Admin,Cardiology,Vitals entry screen is slow,1
+U3010,MA,Cardiology,Too many clicks to complete chart,5
+U3011,Nurse,Pediatrics,Navigation is not intuitive,4
+U3012,Billing,Family Med,Too many clicks to complete chart,5
+U3013,MA,Cardiology,Can’t find billing code template,5
+U3014,MA,Family Med,Too many clicks to complete chart,2
+U3015,Billing,Pediatrics,No issues,1
+U3016,Billing,Pediatrics,Too many clicks to complete chart,4
+U3017,Nurse,Internal Med,Would like auto-populated templates,3
+U3018,Admin,Family Med,Training was insufficient,5
+U3019,MA,Family Med,Would like auto-populated templates,4
+U3020,Admin,Internal Med,System crashes when saving notes,3
+U3021,Nurse,Internal Med,Navigation is not intuitive,1
+U3022,Provider,Cardiology,No issues,3
+U3023,Provider,Cardiology,Can’t find billing code template,2
+U3024,Billing,Family Med,System crashes when saving notes,3
+U3025,Billing,Internal Med,Can’t find billing code template,3
+U3026,MA,Cardiology,Vitals entry screen is slow,2
+U3027,Provider,Internal Med,System crashes when saving notes,1
+U3028,Billing,Internal Med,Training was insufficient,1
+U3029,MA,Internal Med,Too many clicks to complete chart,3
+U3030,Admin,Internal Med,Too many clicks to complete chart,2
+U3031,MA,Internal Med,No issues,5
+U3032,Nurse,Family Med,Can’t find billing code template,1
+U3033,MA,Pediatrics,Navigation is not intuitive,1
+U3034,Admin,Pediatrics,Too many clicks to complete chart,1
+U3035,MA,Cardiology,Vitals entry screen is slow,3
+U3036,Nurse,Pediatrics,Navigation is not intuitive,5
+U3037,Nurse,Pediatrics,Vitals entry screen is slow,5
+U3038,MA,Cardiology,Navigation is not intuitive,2
+U3039,Admin,Family Med,Can’t find billing code template,4
+U3040,Admin,Internal Med,Training was insufficient,1
+U3041,MA,Family Med,System crashes when saving notes,3
+U3042,MA,Internal Med,Too many clicks to complete chart,3
+U3043,Admin,Pediatrics,Too many clicks to complete chart,5
+U3044,Billing,Pediatrics,Navigation is not intuitive,1
+U3045,Admin,Family Med,Can’t find billing code template,5
+U3046,MA,Cardiology,System crashes when saving notes,3
+U3047,Billing,Family Med,System crashes when saving notes,4
+U3048,Admin,Cardiology,Vitals entry screen is slow,2
+U3049,Admin,Family Med,Navigation is not intuitive,3
